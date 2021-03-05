@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josaphat Lopez </h1>
 <h3 align="center">A self-taught dedicated developer 😎 </h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Gdegentleman_?label=Gdegentleman_&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/YesIamBear__?label=YesIamBear_&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/josaphatsv?label=josaphatsv&style=social)
 
 #### About me 😃
