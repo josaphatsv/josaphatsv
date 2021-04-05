@@ -41,7 +41,9 @@
 <code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Linux" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/></code>
+
 
 
 
